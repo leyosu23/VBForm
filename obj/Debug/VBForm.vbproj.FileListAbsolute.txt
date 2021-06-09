@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\VBForm\bin\Debug\VBForm.exe.config
+C:\Users\User\Desktop\VBForm\bin\Debug\VBForm.exe
+C:\Users\User\Desktop\VBForm\bin\Debug\VBForm.pdb
+C:\Users\User\Desktop\VBForm\bin\Debug\VBForm.xml
+C:\Users\User\Desktop\VBForm\obj\Debug\VBForm.vbprojAssemblyReference.cache
+C:\Users\User\Desktop\VBForm\obj\Debug\VBForm.Form1.resources
+C:\Users\User\Desktop\VBForm\obj\Debug\VBForm.Resources.resources
+C:\Users\User\Desktop\VBForm\obj\Debug\VBForm.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\VBForm\obj\Debug\VBForm.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\VBForm\obj\Debug\VBForm.exe
+C:\Users\User\Desktop\VBForm\obj\Debug\VBForm.xml
+C:\Users\User\Desktop\VBForm\obj\Debug\VBForm.pdb
